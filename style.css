@@ -1,0 +1,38 @@
+div {
+   padding-bottom: 5pt ;
+   padding-top: 5pt;
+   border-style: dotted;
+   border-color: burlywood;
+   border-width: 5pt;
+}
+p{
+text-align: justify;
+background-color: cornsilk;
+margin: 3mm;
+margin-top: 2mm;
+margin-bottom: 2mm;
+padding-left: 6mm;
+padding-right: 6mm;
+text-indent: 1,5cm;
+}
+#bal{
+    width: 70%;
+}
+#jobb{
+    width: 80%;
+    text-align: center;
+}
+.piros{
+    border: darkred;
+    text-align: right;
+}
+.kek{
+    padding-bottom: 1cm;
+    border-left: 1mm blueviolet;
+    border-style: dashed;
+    border-bottom: 2mm blue;
+}
+span{
+    font-variant: small-caps;
+    background-color: crimson;
+}
